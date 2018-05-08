@@ -6,6 +6,6 @@ use_frameworks!
 pod 'Moya', '8.0.0-beta.6'
 pod 'AlamofireOauth2'
 pod 'LFLiveKit'
-pod 'SwiftyJSON'
+pod 'SwiftyJSON, '3.1.4'
 
 end
