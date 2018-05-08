@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   s.dependency 'LFLiveKit'
   s.dependency 'SwiftyJSON'
   s.dependency 'KeychainAccess'
-
+  s.dependency 'AlamofireOauth2'
   s.source_files = "YTLiveStreaming/**/*.{swift,h,m}"
 
   s.public_header_files = ['YTLiveStreaming/YTLiveStreaming.h']
