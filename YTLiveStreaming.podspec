@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   s.dependency 'Moya', '8.0.0-beta.6'
   s.dependency 'AlamofireOauth2'
   s.dependency 'LFLiveKit'
-  s.dependency 'SwiftyJSON'
+  s.dependency 'SwiftyJSON, '3.1.4'
 
   s.source_files = "YTLiveStreaming/**/*.{swift,h,m}"
 
